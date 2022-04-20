@@ -1,4 +1,4 @@
-radius=int(input("enter the bradius of circle"))
+radius=double(input("enter the bradius of circle"))
 
 circumference=2*3.14*radius
 
