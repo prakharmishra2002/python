@@ -1,0 +1,7 @@
+unit=int(input("enter the unit"))
+if unit<=100:
+    bill=unit*10
+    print("generated bill is",bill)
+else:
+    bill=unit*15
+    print("generated bill is",bill)
