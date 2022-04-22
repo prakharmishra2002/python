@@ -1,0 +1,9 @@
+a=123
+b=12.3
+c='name'
+d=1j
+e=["apple","banana","cherry"]
+f=("apple","banana","cherry")
+g={"name":"vishu","age":20}
+h={"apple","banana","cherry"}
+print(type(a),"\n",type(b),"\n",type(c),"\n",type(d),"\n",type(e),"\n",type(f),"\n",type(g),"\n",type(h))
