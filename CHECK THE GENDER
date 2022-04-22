@@ -1,0 +1,7 @@
+gender=input("enter the gender")
+if gender=='f' or gender=='F':
+    print("gender is female")
+elif gender=='M' or gender=='m':
+    print("gender is male")
+else: 
+    print("gender is transgender")
